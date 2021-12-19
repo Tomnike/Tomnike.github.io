@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://bet-888.github.io</id>
+    <id>https://Tomnike.github.io</id>
     <title>Gridea</title>
-    <updated>2021-12-19T02:52:55.583Z</updated>
+    <updated>2021-12-19T08:22:50.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://bet-888.github.io"/>
-    <link rel="self" href="https://bet-888.github.io/atom.xml"/>
+    <link rel="alternate" href="https://Tomnike.github.io"/>
+    <link rel="self" href="https://Tomnike.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://bet-888.github.io/images/avatar.png</logo>
-    <icon>https://bet-888.github.io/favicon.ico</icon>
+    <logo>https://Tomnike.github.io/images/avatar.png</logo>
+    <icon>https://Tomnike.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://bet-888.github.io/post/hello-gridea/</id>
-        <link href="https://bet-888.github.io/post/hello-gridea/">
+        <id>https://Tomnike.github.io/post/hello-gridea/</id>
+        <link href="https://Tomnike.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
